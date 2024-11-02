@@ -254,5 +254,5 @@ The first page shows the name of the Web App on clicking on start button it lead
 # Team Contributions
 
 1. Adith Dileep A D: Idea, Algorithm, Pseudo Code, Coding, Debugging, Documentation.
-2. Eesa M A : Debugging, Testing, idea.
-3. Anushka Anu: Debugging, Testing, idea.
+2. Eesa M A : Debugging, Testing, idea, Documentation.
+3. Anushka Anu: Debugging, Testing, idea, Documentation.
