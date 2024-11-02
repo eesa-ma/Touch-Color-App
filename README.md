@@ -145,6 +145,7 @@ After cloning the repository, navigate into the project folder:
 bash
 Copy code
 cd touch-color-app
+
 Step 3: Install Dependencies
 Once you're in the project directory, you need to install the required dependencies. Run the following command:
 
